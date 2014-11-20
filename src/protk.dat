@@ -1,0 +1,9 @@
+name     Engr.Creo.Jlink.LaunchPane
+startup  java
+java_app_class  LaunchPane
+java_app_classpath C:/temp/LaunchPane/
+java_app_start  start
+java_app_stop   stop
+allow_stop      true
+delay_start     false
+end
